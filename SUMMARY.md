@@ -2,6 +2,11 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## AI Code Reviewer
 
-* [Introduction](getting-started/introduction.md)
+* [Overview](ai-code-reviewer/overview.md)
+* [Installation](ai-code-reviewer/installation.md)
+* [Configuration](ai-code-reviewer/configuration.md)
+* [Automatic Review](ai-code-reviewer/auto-review.md)
+* [Chat Commands](ai-code-reviewer/chat-commands.md)
+* [Slack Notifications](ai-code-reviewer/slack-notifications.md)
